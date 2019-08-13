@@ -6,12 +6,22 @@
 Welcome to MolSSIExample's documentation!
 =========================================================
 
+This is an introduction to my package.
+
+This is sigma: :math:`\sigma_{1}`
+
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    getting_started
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Developer Guide:
+
    api
+   api_math
 
 
 

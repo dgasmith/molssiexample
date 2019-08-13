@@ -1,10 +1,5 @@
-API Documentation
-=================
-
-.. autosummary::
-   :toctree: autosummary
-
-   molssiexample.canvas
+Math API Documentation
+======================
 
 Math function documentation:
 ----------------------------
