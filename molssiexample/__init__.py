@@ -5,6 +5,7 @@ An example of the MolSSI Cookiecutter.
 
 # Add imports here
 from .molssiexample import *
+from . import math
 
 # Handle versioneer
 from ._version import get_versions
