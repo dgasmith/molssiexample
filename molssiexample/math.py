@@ -5,6 +5,7 @@ A file for executing math functions.
 from typing import Union
 import numpy as np
 
+
 def euler(last_n):
 
     if last_n < 0:
@@ -23,5 +24,6 @@ def factorial(n):
     else:
         return 1
 
-def pi(n:Union[int, float]=1e4)->float:
+
+def pi(n: Union[int, float] = 1e4) -> float:
     return 4 * np.mean(np.linalg.norm(np.random.rand(int(n), 2), axis=-1) < 1)

@@ -9,6 +9,7 @@ def test_euler(n, answer):
 
     assert me.math.euler(n) == pytest.approx(answer, abs=1.e-6)
 
+
 def test_euler_failures():
 
     with pytest.raises(ValueError) as exc:
