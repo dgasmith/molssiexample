@@ -7,6 +7,8 @@ MolSSIExample
 
 An example of the MolSSI Cookiecutter.
 
+Extra information.
+
 ### Copyright
 
 Copyright (c) 2019, Daniel G. A. Smith
